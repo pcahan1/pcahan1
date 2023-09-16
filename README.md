@@ -11,12 +11,12 @@ This is my (Patrick Cahan's) personal GitHub page. I have moved my lab's reposit
   *  [CellNet](https://github.com/cahanlab/CellNet)
   *  [Original CellNet code](https://github.com/cahanlab/cellnetr)
 - **Gene regulatory network reconstruction tools**
-  * [Epoch (R)](https://github.com/cahanlab/)
-  * [PyEpoch (Python)](https://github.com/cahanlab/)
+  * [Epoch (R)](https://github.com/cahanlab/epoch)
+  * [PyEpoch (Python)](https://github.com/cahanlab/pyepoch)
 - **StemFinder**
-  * [StemFinder (R)](https://github.com/cahanlab/) 
-  * [PyStemFinder (Python)](https://github.com/cahanlab/)
-  * [StemFinder paper](https://github.com/cahanlab/)
+  * [StemFinder (R)](https://github.com/cahanlab/stemfinder) 
+  * [PyStemFinder (Python)](https://github.com/cahanlab/pystemfinder)
+  * [StemFinder paper](https://github.com/cahanlab/stemfinder_paper)
 - **Assorted, older repositories**
   * [Radiator](https://github.com/cahanlab/Web_Framework)
   * [wuhmm](https://github.com/cahanlab/wuhmm)
